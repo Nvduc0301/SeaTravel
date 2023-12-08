@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/SeaTravelIt/static/css/main.78539ad2.css",
-    "main.js": "/SeaTravelIt/static/js/main.2ee7e899.js",
-    "static/media/resort_Costa Smeralda.jpg": "/SeaTravelIt/static/media/resort_Costa Smeralda.e85cda5136207c53bff5.jpg",
-    "static/media/resort_bali.jpg": "/SeaTravelIt/static/media/resort_bali.28f2603cb690a709a415.jpg",
-    "static/media/resort_Santorini.jpg": "/SeaTravelIt/static/media/resort_Santorini.fda8e7146586b3fa57f5.jpg",
-    "static/media/beach_Santorini.jpg": "/SeaTravelIt/static/media/beach_Santorini.a5eb5374540de0d22671.jpg",
-    "static/media/maldivesVideo.mp4": "/SeaTravelIt/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
-    "static/media/keywest.jpg": "/SeaTravelIt/static/media/keywest.1e30514942c6f50bea09.jpg",
-    "static/media/maldives2.jpg": "/SeaTravelIt/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
-    "static/media/borabora.jpg": "/SeaTravelIt/static/media/borabora.e6c4841f299365fdfa10.jpg",
-    "static/media/borabora2.jpg": "/SeaTravelIt/static/media/borabora2.726ded1de37915f83c71.jpg",
-    "static/media/maldives.jpg": "/SeaTravelIt/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
-    "static/media/maldives3.jpg": "/SeaTravelIt/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
-    "static/media/awards-2023.png": "/SeaTravelIt/static/media/awards-2023.25ca939ade30d6c504fd.png",
-    "static/media/gold.png": "/SeaTravelIt/static/media/gold.42f7d8f40c346adfe3a7.png",
-    "index.html": "/SeaTravelIt/index.html",
-    "main.78539ad2.css.map": "/SeaTravelIt/static/css/main.78539ad2.css.map",
-    "main.2ee7e899.js.map": "/SeaTravelIt/static/js/main.2ee7e899.js.map"
+    "main.css": "/SeaTravel/static/css/main.78539ad2.css",
+    "main.js": "/SeaTravel/static/js/main.2e027424.js",
+    "static/media/resort_Costa Smeralda.jpg": "/SeaTravel/static/media/resort_Costa Smeralda.e85cda5136207c53bff5.jpg",
+    "static/media/resort_bali.jpg": "/SeaTravel/static/media/resort_bali.28f2603cb690a709a415.jpg",
+    "static/media/resort_Santorini.jpg": "/SeaTravel/static/media/resort_Santorini.fda8e7146586b3fa57f5.jpg",
+    "static/media/beach_Santorini.jpg": "/SeaTravel/static/media/beach_Santorini.a5eb5374540de0d22671.jpg",
+    "static/media/maldivesVideo.mp4": "/SeaTravel/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
+    "static/media/keywest.jpg": "/SeaTravel/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/SeaTravel/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/SeaTravel/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/SeaTravel/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/SeaTravel/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/SeaTravel/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/awards-2023.png": "/SeaTravel/static/media/awards-2023.25ca939ade30d6c504fd.png",
+    "static/media/gold.png": "/SeaTravel/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/SeaTravel/index.html",
+    "main.78539ad2.css.map": "/SeaTravel/static/css/main.78539ad2.css.map",
+    "main.2e027424.js.map": "/SeaTravel/static/js/main.2e027424.js.map"
   },
   "entrypoints": [
     "static/css/main.78539ad2.css",
-    "static/js/main.2ee7e899.js"
+    "static/js/main.2e027424.js"
   ]
 }
